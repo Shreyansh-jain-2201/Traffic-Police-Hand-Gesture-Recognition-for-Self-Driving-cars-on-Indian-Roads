@@ -8,6 +8,15 @@
 
 This project aims to develop a system that enables self-driving cars to recognize and interpret traffic police hand gestures on Indian roads. The system utilizes computer vision techniques, MoveNet's Thunder pose estimation model, and machine learning algorithms to detect and classify hand gestures made by traffic police officers.
 
+This site was built using [GitHub Pages](https://pages.github.com/)
+Explore the project in detail through the following resources:
+
+[PowerPoint Presentation](https://docs.google.com/presentation/d/1hNdojqPG8jN_FQLDshF48g_EoghVWCg8/edit?usp=sharing&ouid=112532963584243436814&rtpof=true&sd=true): Dive into a concise overview of the project's key features and highlights.
+
+[Detailed Documentation](https://drive.google.com/file/d/12kMcOOVJptZtkF9MCGMVmyPxy3cnyb0C/view?usp=sharing): For an in-depth understanding of the project's architecture, functionality, and implementation, refer to the comprehensive documentation.
+
+Feel free to click on the provided links to access the materials.
+
 ## Features
 
 - A deep learning model that can detect and analyze Indian traffic police hand gestures in real time with high accuracy.
